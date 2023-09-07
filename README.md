@@ -4,7 +4,7 @@ games using [arcade] (https://api.arcade.academy/en/latest/get_started.html) lib
 
 ## PyGame13
 ### Interstellar1
-![_Interstellar_](PyGame13_Interstellar1\Interstellar.png)
+![Interstellar Image](PyGame13_Interstellar1\Interstellar.png)
 
 ### Complex loops box
 ![_complexloops_](PyGame13_Interstellar1\complexloops.png)

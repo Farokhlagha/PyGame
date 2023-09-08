@@ -7,7 +7,7 @@ from apple import Apple, Pear, Shit
 class Game(arcade.Window):
     def __init__(self):
         super().__init__(width=500, height=500, title='Super Snake AI 🐍 V1')
-        self.background_game = arcade.load_texture('pictures/grass.png')
+        self.background_game = arcade.load_texture('pictures/grass.jpeg')
         self.margin = 30
         self.full_fields = []
         self.state = 'initialize'

@@ -18,7 +18,7 @@ When the enemy spaceship enters the lower area of ​​the game, you will lose 
 ### Snake Game manual and AI
 you have to eat fruit, as you know!
 The apple has one score and pear has two score but eating the shit decrease one score.You can move snake by navigation keys.
-![]()
+![grass](https://raw.githubusercontent.com/Farokhlagha/PyGame/main/PyGame15_Snake/pictures/grass.jpeg)
 
 ## PyGame16
 ### Ping_pong

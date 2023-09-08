@@ -4,7 +4,7 @@ games using [arcade] (https://api.arcade.academy/en/latest/get_started.html) lib
 
 ## PyGame13
 ### Interstellar1
-![Interstellar](https://raw.githubusercontent.com/Farokhlagha/PyGame/main/PyGame13_Interstellar1/images/Interstellar.png)
+![Interstell](https://raw.githubusercontent.com/Farokhlagha/PyGame/main/PyGame13_Interstellar1/images/Interstellar.png)
 
 ### Complex loops box
 ![_complexloops_](https://raw.githubusercontent.com/Farokhlagha/PyGame/main/PyGame13_Interstellar1/images/complexloops.png)
@@ -25,4 +25,5 @@ This is ping pong game that player play with computer.
 ## PyGame16-Breakout 
 
 And the last one is Breakout or Arkanoid.
+
 

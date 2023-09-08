@@ -18,16 +18,18 @@ When the enemy spaceship enters the lower area of ​​the game, you will lose 
 ### Snake Game manual and AI
 you have to eat fruit, as you know!
 The apple has one score and pear has two score but eating the shit decrease one score.You can move snake by navigation keys.
-![grass](https://raw.githubusercontent.com/Farokhlagha/PyGame/main/PyGame15_Snake/pictures/grass.jpeg)
+![sake](https://raw.githubusercontent.com/Farokhlagha/PyGame/main/PyGame15_Snake/pictures/snake.png)
 
 ## PyGame16
 ### Ping_pong
-This is ping pong game that player play with computer.
+in the ping pong game that player play with computer.
 
-![_pingpong_](https://raw.githubusercontent.com/Farokhlagha/PyGame/main/PyGame16_Breakout%2CPong/Pong/picture/_game.png)
+![pingpong](https://raw.githubusercontent.com/Farokhlagha/PyGame/main/PyGame16_Breakout%2CPong/Pong/pingpong.png)
 
 ### Breakout 
 
 And the last one is Breakout or Arkanoid.
+
+![breakout](https://raw.githubusercontent.com/Farokhlagha/PyGame/main/PyGame16_Breakout%2CPong/Breakout/breakout.png)
 
 

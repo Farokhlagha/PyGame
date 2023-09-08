@@ -4,10 +4,10 @@ games using [arcade] (https://api.arcade.academy/en/latest/get_started.html) lib
 
 ## PyGame13
 ### Interstellar1
-![Interstellar](./images/Interstellar.png)
+![Interstellar](https://raw.githubusercontent.com/Farokhlagha/PyGame/main/PyGame13_Interstellar1/images/Interstellar.png)
 
 ### Complex loops box
-![_complexloops_](PyGame13_Interstellar1\complexloops.png)
+![_complexloops_](https://raw.githubusercontent.com/Farokhlagha/PyGame/main/PyGame13_Interstellar1/images/complexloops.png)
 
 ## PyGame14_Interstellar2
 At the begining of the game, you will have 3 lives on the left corner and in the opposite site you can see,your game score.
@@ -20,7 +20,7 @@ The apple has one score and pear has two score but eating the shit decrease one 
 ## PyGame16_Ping_pong
 This is ping pong game that player play with computer.
 
-![_pingpong_](PyGame16_Breakout,Pong\Pong\pingpong.png)
+![_pingpong_](https://raw.githubusercontent.com/Farokhlagha/PyGame/main/PyGame16_Breakout%2CPong/Pong/picture/_game.png)
 
 ## PyGame16-Breakout 
 
